@@ -1,0 +1,7 @@
+
+
+I am currently working  on spring security where i built  a maven project and I add spring projects as a modules so that 
+I Can seprate out diffrent services such register user with password encryption using password encoder and verfiy user 
+using link in which token has compared  which is implicitly genrated  and in login module I gave user authentication and 
+Authorization on the basis of  user credentials and user role (Admin/User) so that user can access  respective api's according to authentication
+    
